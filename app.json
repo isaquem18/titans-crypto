@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "titans-crypto",
+    "slug": "titans-crypto",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "titans-crypto"
+}
